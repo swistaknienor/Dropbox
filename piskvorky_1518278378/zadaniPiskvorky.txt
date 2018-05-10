@@ -1,0 +1,5 @@
+Piskvorky:
+1. Zaridte aby sloupec mel stejnou sirku jako radek vysku -> bunky chci jako ctverec.
+2. Lichy klik do bunky bude pismeno X a sudy klik do bunky bude pismeno O.
+3. Jakmile kliknu do stejne bunky, tak osetrete aby se nic nestalo, aby se nic neprepsalo a stejny hrac byl stale natahu.
+4. Pod tlacitkem Apply vytvorte dalsi tlacitko ktere vymaze celou tabulku i se sloupci a radkami. Aby ste mohli zacit novou hru musite kliknout na Apply a vytvorit nove hraci pole.

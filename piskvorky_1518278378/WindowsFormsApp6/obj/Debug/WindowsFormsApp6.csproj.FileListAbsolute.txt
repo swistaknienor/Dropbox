@@ -1,0 +1,10 @@
+C:\Users\swistak\source\repos\piskvorky_1518278378\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojResolveAssemblyReference.cache
+C:\Users\swistak\source\repos\piskvorky_1518278378\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\swistak\source\repos\piskvorky_1518278378\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\swistak\source\repos\piskvorky_1518278378\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.Cache
+C:\Users\swistak\source\repos\piskvorky_1518278378\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\swistak\source\repos\piskvorky_1518278378\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\swistak\source\repos\piskvorky_1518278378\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\swistak\source\repos\piskvorky_1518278378\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\swistak\source\repos\piskvorky_1518278378\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\swistak\source\repos\piskvorky_1518278378\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb

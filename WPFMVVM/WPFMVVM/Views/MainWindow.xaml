@@ -1,0 +1,17 @@
+﻿<Window x:Class="WPFMVVM.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFMVVM"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="196.7" Width="229.95" >
+    <Grid>
+        <Button Command="{Binding UpdateCommand}" x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="135,9,0,0" VerticalAlignment="Top" Width="75" Height="24"/>
+        <ComboBox Text="{Binding Customer.Name, UpdateSourceTrigger=PropertyChanged}" IsEditable="True" x:Name="comboBox" HorizontalAlignment="Left" Margin="10,11,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Text="{Binding Customer.Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" x:Name="textBlock" HorizontalAlignment="Left" Margin="10,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Text="{Binding Customer.Name, UpdateSourceTrigger=PropertyChanged}" x:Name="textBlock_Copy" HorizontalAlignment="Left" Margin="10,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Text="{Binding Customer.Name, UpdateSourceTrigger=PropertyChanged}" x:Name="textBlock_Copy1" HorizontalAlignment="Left" Margin="10,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Command="{Binding NextCommand}" x:Name="button1" Content="Button" HorizontalAlignment="Left" Margin="135,44,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>

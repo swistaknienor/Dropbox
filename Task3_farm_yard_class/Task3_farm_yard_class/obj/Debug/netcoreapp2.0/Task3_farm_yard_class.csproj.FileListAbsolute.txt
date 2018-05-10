@@ -1,0 +1,11 @@
+E:\Backup\Users\user\VisualStudio_source\Task3_farm_yard_class\Task3_farm_yard_class\obj\Debug\netcoreapp2.0\Task3_farm_yard_class.csprojResolveAssemblyReference.cache
+E:\Backup\Users\user\VisualStudio_source\Task3_farm_yard_class\Task3_farm_yard_class\obj\Debug\netcoreapp2.0\Task3_farm_yard_class.csproj.CoreCompileInputs.cache
+E:\Backup\Users\user\VisualStudio_source\Task3_farm_yard_class\Task3_farm_yard_class\obj\Debug\netcoreapp2.0\Task3_farm_yard_class.AssemblyInfoInputs.cache
+E:\Backup\Users\user\VisualStudio_source\Task3_farm_yard_class\Task3_farm_yard_class\obj\Debug\netcoreapp2.0\Task3_farm_yard_class.AssemblyInfo.cs
+E:\Backup\Users\user\VisualStudio_source\Task3_farm_yard_class\Task3_farm_yard_class\bin\Debug\netcoreapp2.0\Task3_farm_yard_class.deps.json
+E:\Backup\Users\user\VisualStudio_source\Task3_farm_yard_class\Task3_farm_yard_class\bin\Debug\netcoreapp2.0\Task3_farm_yard_class.runtimeconfig.json
+E:\Backup\Users\user\VisualStudio_source\Task3_farm_yard_class\Task3_farm_yard_class\bin\Debug\netcoreapp2.0\Task3_farm_yard_class.runtimeconfig.dev.json
+E:\Backup\Users\user\VisualStudio_source\Task3_farm_yard_class\Task3_farm_yard_class\bin\Debug\netcoreapp2.0\Task3_farm_yard_class.dll
+E:\Backup\Users\user\VisualStudio_source\Task3_farm_yard_class\Task3_farm_yard_class\bin\Debug\netcoreapp2.0\Task3_farm_yard_class.pdb
+E:\Backup\Users\user\VisualStudio_source\Task3_farm_yard_class\Task3_farm_yard_class\obj\Debug\netcoreapp2.0\Task3_farm_yard_class.dll
+E:\Backup\Users\user\VisualStudio_source\Task3_farm_yard_class\Task3_farm_yard_class\obj\Debug\netcoreapp2.0\Task3_farm_yard_class.pdb

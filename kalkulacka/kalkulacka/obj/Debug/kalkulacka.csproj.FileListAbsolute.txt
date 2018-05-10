@@ -1,0 +1,7 @@
+C:\Users\swistak\Dropbox\kalkulacka\kalkulacka\bin\Debug\kalkulacka.exe.config
+C:\Users\swistak\Dropbox\kalkulacka\kalkulacka\bin\Debug\kalkulacka.exe
+C:\Users\swistak\Dropbox\kalkulacka\kalkulacka\bin\Debug\kalkulacka.pdb
+C:\Users\swistak\Dropbox\kalkulacka\kalkulacka\obj\Debug\kalkulacka.csprojResolveAssemblyReference.cache
+C:\Users\swistak\Dropbox\kalkulacka\kalkulacka\obj\Debug\kalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\swistak\Dropbox\kalkulacka\kalkulacka\obj\Debug\kalkulacka.exe
+C:\Users\swistak\Dropbox\kalkulacka\kalkulacka\obj\Debug\kalkulacka.pdb

@@ -1,0 +1,4 @@
+Chat application:
+1. Stáhnout aplikaci Visual Paradigm zde: https://www.visual-paradigm.com/download/community.jsp
+2. Podívat se na Class diagram a zkusit ho rozšírit
+3. Prepsat Class diagram do C# do prilozeneho projektu

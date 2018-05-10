@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lodicky", "WindowsFormsApp1\Lodicky.csproj", "{8524532E-F4D4-412E-BCFB-60D4C4A9593B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8524532E-F4D4-412E-BCFB-60D4C4A9593B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8524532E-F4D4-412E-BCFB-60D4C4A9593B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8524532E-F4D4-412E-BCFB-60D4C4A9593B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8524532E-F4D4-412E-BCFB-60D4C4A9593B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7FF127E-7B52-4E4C-A982-D45001485316}
+	EndGlobalSection
+EndGlobal

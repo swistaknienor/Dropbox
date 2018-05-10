@@ -1,0 +1,15 @@
+C:\Users\swistak\source\repos\WpfApp1_test\WpfApp1_test\bin\Debug\WpfApp1_test.exe.config
+C:\Users\swistak\source\repos\WpfApp1_test\WpfApp1_test\bin\Debug\WpfApp1_test.exe
+C:\Users\swistak\source\repos\WpfApp1_test\WpfApp1_test\bin\Debug\WpfApp1_test.pdb
+C:\Users\swistak\source\repos\WpfApp1_test\WpfApp1_test\obj\Debug\WpfApp1_test.csprojResolveAssemblyReference.cache
+C:\Users\swistak\source\repos\WpfApp1_test\WpfApp1_test\obj\Debug\MainWindow.g.cs
+C:\Users\swistak\source\repos\WpfApp1_test\WpfApp1_test\obj\Debug\App.g.cs
+C:\Users\swistak\source\repos\WpfApp1_test\WpfApp1_test\obj\Debug\WpfApp1_test_MarkupCompile.cache
+C:\Users\swistak\source\repos\WpfApp1_test\WpfApp1_test\obj\Debug\WpfApp1_test_MarkupCompile.lref
+C:\Users\swistak\source\repos\WpfApp1_test\WpfApp1_test\obj\Debug\MainWindow.baml
+C:\Users\swistak\source\repos\WpfApp1_test\WpfApp1_test\obj\Debug\WpfApp1_test.g.resources
+C:\Users\swistak\source\repos\WpfApp1_test\WpfApp1_test\obj\Debug\WpfApp1_test.Properties.Resources.resources
+C:\Users\swistak\source\repos\WpfApp1_test\WpfApp1_test\obj\Debug\WpfApp1_test.csproj.GenerateResource.Cache
+C:\Users\swistak\source\repos\WpfApp1_test\WpfApp1_test\obj\Debug\WpfApp1_test.csproj.CoreCompileInputs.cache
+C:\Users\swistak\source\repos\WpfApp1_test\WpfApp1_test\obj\Debug\WpfApp1_test.exe
+C:\Users\swistak\source\repos\WpfApp1_test\WpfApp1_test\obj\Debug\WpfApp1_test.pdb

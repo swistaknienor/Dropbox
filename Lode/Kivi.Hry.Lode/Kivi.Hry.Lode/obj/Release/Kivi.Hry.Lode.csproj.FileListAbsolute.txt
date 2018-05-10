@@ -1,0 +1,11 @@
+C:\Users\kivi\documents\visual studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Release\Kivi.Hry.Lode.Properties.Resources.resources
+C:\Users\kivi\documents\visual studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Release\Kivi.Hry.Lode.csproj.GenerateResource.Cache
+C:\Users\kivi\Documents\Visual Studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Release\Kivi.Hry.Lode.csprojResolveAssemblyReference.cache
+C:\Users\kivi\Documents\Visual Studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\bin\Release\Lode.exe.config
+C:\Users\kivi\Documents\Visual Studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\bin\Release\Lode.exe
+C:\Users\kivi\Documents\Visual Studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\bin\Release\Lode.pdb
+C:\Users\kivi\Documents\Visual Studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Release\Lode.exe
+C:\Users\kivi\Documents\Visual Studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Release\Lode.pdb
+C:\Users\kivi\Desktop\Lode\Kivi.Hry.Lode\Kivi.Hry.Lode\bin\Release\Lode.exe.config
+C:\Users\kivi\Desktop\Lode\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Release\Lode.exe
+C:\Users\kivi\Desktop\Lode\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Release\Lode.pdb

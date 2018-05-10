@@ -1,0 +1,7 @@
+C:\Users\swistak\Dropbox\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\swistak\Dropbox\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\swistak\Dropbox\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\swistak\Dropbox\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+C:\Users\swistak\Dropbox\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\swistak\Dropbox\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\swistak\Dropbox\FirstApp\FirstApp\obj\Debug\FirstApp.pdb

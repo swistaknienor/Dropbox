@@ -1,0 +1,19 @@
+c:\users\kivi\documents\visual studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Debug\Kivi.Hry.Lode.csprojResolveAssemblyReference.cache
+C:\Users\kivi\documents\visual studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Debug\Kivi.Hry.Lode.Properties.Resources.resources
+C:\Users\kivi\documents\visual studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Debug\Kivi.Hry.Lode.csproj.GenerateResource.Cache
+D:\C# zaloha kodu\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\bin\Debug\Kivi.Hry.Lode.exe.config
+D:\C# zaloha kodu\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Debug\Kivi.Hry.Lode.exe
+D:\C# zaloha kodu\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Debug\Kivi.Hry.Lode.pdb
+D:\C# zaloha kodu\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\bin\Debug\Kivi.Hry.Lode.exe
+D:\C# zaloha kodu\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\bin\Debug\Kivi.Hry.Lode.pdb
+D:\C# zaloha kodu\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Debug\Kivi.Hry.Lode.csprojResolveAssemblyReference.cache
+D:\C# zaloha kodu\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Debug\Kivi.Hry.Lode.Properties.Resources.resources
+D:\C# zaloha kodu\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Debug\Kivi.Hry.Lode.csproj.GenerateResource.Cache
+C:\Users\kivi\documents\visual studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\bin\Debug\Lode.exe.config
+C:\Users\kivi\documents\visual studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\bin\Debug\Lode.exe
+C:\Users\kivi\documents\visual studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\bin\Debug\Lode.pdb
+C:\Users\kivi\documents\visual studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Debug\Lode.exe
+C:\Users\kivi\documents\visual studio 2013\Projects\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Debug\Lode.pdb
+C:\Users\kivi\Desktop\Lode\Kivi.Hry.Lode\Kivi.Hry.Lode\bin\Debug\Lode.exe.config
+C:\Users\kivi\Desktop\Lode\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Debug\Lode.exe
+C:\Users\kivi\Desktop\Lode\Kivi.Hry.Lode\Kivi.Hry.Lode\obj\Debug\Lode.pdb

@@ -1,0 +1,6 @@
+Pokracujte ve hre Battle Ships:
+1. Jakmile vzhraje hrac nebo pocitac, tak vycistete tabulky pro novou hru.
+2. Pridejte tlacitka a jejich funkcionality: Nova hra, Uloz hru, Nacti hru.
+3. Jakmile hrac nebo pocitac trefi lod, tak by mel pokracovat v utoku.
+
+Hra miny: vytvorte hru Miny.

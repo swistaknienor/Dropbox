@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="Styles.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="70" d:DesignWidth="260">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="70"/>
+            <ColumnDefinition Width="190"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Column="1"><InlineUIContainer>
+                <TextBox Height="70" x:Name="tbText" Width="190" BorderBrush="#FF494663" Background="#FF494663" Text="Anonym"  TextAlignment="Center" TextOptions.TextFormattingMode="Display" BorderThickness="1,1,1,0" Foreground="#FFF5F3F3" HorizontalContentAlignment="Center" HorizontalAlignment="Center"/>
+            </InlineUIContainer></TextBlock>
+        <Image HorizontalAlignment="Left" Height="70" VerticalAlignment="Top" Width="70" Grid.Column="0"/>
+        <Image Margin="0,0,0,0" Source="/Styles;component/pict1.png" Stretch ="Fill"/>
+    </Grid>
+</UserControl>

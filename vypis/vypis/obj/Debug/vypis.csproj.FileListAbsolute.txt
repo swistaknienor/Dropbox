@@ -1,0 +1,7 @@
+C:\Users\swistak\Dropbox\vypis\vypis\bin\Debug\vypis.exe.config
+C:\Users\swistak\Dropbox\vypis\vypis\bin\Debug\vypis.exe
+C:\Users\swistak\Dropbox\vypis\vypis\bin\Debug\vypis.pdb
+C:\Users\swistak\Dropbox\vypis\vypis\obj\Debug\vypis.csprojResolveAssemblyReference.cache
+C:\Users\swistak\Dropbox\vypis\vypis\obj\Debug\vypis.csproj.CoreCompileInputs.cache
+C:\Users\swistak\Dropbox\vypis\vypis\obj\Debug\vypis.exe
+C:\Users\swistak\Dropbox\vypis\vypis\obj\Debug\vypis.pdb

@@ -1,0 +1,18 @@
+C:\Users\swistak\source\repos\The Yard\The Yard\bin\Debug\The Yard.exe.config
+C:\Users\swistak\source\repos\The Yard\The Yard\bin\Debug\The Yard.exe
+C:\Users\swistak\source\repos\The Yard\The Yard\bin\Debug\The Yard.pdb
+C:\Users\swistak\source\repos\The Yard\The Yard\obj\Debug\The Yard.csprojResolveAssemblyReference.cache
+C:\Users\swistak\source\repos\The Yard\The Yard\obj\Debug\The_Yard.Properties.Resources.resources
+C:\Users\swistak\source\repos\The Yard\The Yard\obj\Debug\The Yard.csproj.GenerateResource.Cache
+C:\Users\swistak\source\repos\The Yard\The Yard\obj\Debug\The Yard.csproj.CoreCompileInputs.cache
+C:\Users\swistak\source\repos\The Yard\The Yard\obj\Debug\The Yard.exe
+C:\Users\swistak\source\repos\The Yard\The Yard\obj\Debug\The Yard.pdb
+C:\Users\swistak\Dropbox\The Yard\The Yard\bin\Debug\The Yard.exe.config
+C:\Users\swistak\Dropbox\The Yard\The Yard\bin\Debug\The Yard.exe
+C:\Users\swistak\Dropbox\The Yard\The Yard\bin\Debug\The Yard.pdb
+C:\Users\swistak\Dropbox\The Yard\The Yard\obj\Debug\The Yard.csprojResolveAssemblyReference.cache
+C:\Users\swistak\Dropbox\The Yard\The Yard\obj\Debug\The_Yard.Properties.Resources.resources
+C:\Users\swistak\Dropbox\The Yard\The Yard\obj\Debug\The Yard.csproj.GenerateResource.Cache
+C:\Users\swistak\Dropbox\The Yard\The Yard\obj\Debug\The Yard.csproj.CoreCompileInputs.cache
+C:\Users\swistak\Dropbox\The Yard\The Yard\obj\Debug\The Yard.exe
+C:\Users\swistak\Dropbox\The Yard\The Yard\obj\Debug\The Yard.pdb

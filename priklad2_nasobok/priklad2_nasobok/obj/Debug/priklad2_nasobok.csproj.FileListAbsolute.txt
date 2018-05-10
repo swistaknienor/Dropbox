@@ -1,0 +1,7 @@
+C:\Users\swistak\Dropbox\priklad2_nasobok\priklad2_nasobok\bin\Debug\priklad2_nasobok.exe.config
+C:\Users\swistak\Dropbox\priklad2_nasobok\priklad2_nasobok\bin\Debug\priklad2_nasobok.exe
+C:\Users\swistak\Dropbox\priklad2_nasobok\priklad2_nasobok\bin\Debug\priklad2_nasobok.pdb
+C:\Users\swistak\Dropbox\priklad2_nasobok\priklad2_nasobok\obj\Debug\priklad2_nasobok.csprojResolveAssemblyReference.cache
+C:\Users\swistak\Dropbox\priklad2_nasobok\priklad2_nasobok\obj\Debug\priklad2_nasobok.csproj.CoreCompileInputs.cache
+C:\Users\swistak\Dropbox\priklad2_nasobok\priklad2_nasobok\obj\Debug\priklad2_nasobok.exe
+C:\Users\swistak\Dropbox\priklad2_nasobok\priklad2_nasobok\obj\Debug\priklad2_nasobok.pdb

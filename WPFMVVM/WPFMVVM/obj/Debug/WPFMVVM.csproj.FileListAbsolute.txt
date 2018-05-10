@@ -1,0 +1,15 @@
+C:\Users\CSharpSat\source\repos\WPFMVVM\WPFMVVM\obj\Debug\WPFMVVM.csprojResolveAssemblyReference.cache
+C:\Users\CSharpSat\source\repos\WPFMVVM\WPFMVVM\obj\Debug\Views\MainWindow.g.cs
+C:\Users\CSharpSat\source\repos\WPFMVVM\WPFMVVM\obj\Debug\App.g.cs
+C:\Users\CSharpSat\source\repos\WPFMVVM\WPFMVVM\obj\Debug\WPFMVVM_MarkupCompile.cache
+C:\Users\CSharpSat\source\repos\WPFMVVM\WPFMVVM\obj\Debug\WPFMVVM_MarkupCompile.lref
+C:\Users\CSharpSat\source\repos\WPFMVVM\WPFMVVM\bin\Debug\WPFMVVM.exe.config
+C:\Users\CSharpSat\source\repos\WPFMVVM\WPFMVVM\bin\Debug\WPFMVVM.exe
+C:\Users\CSharpSat\source\repos\WPFMVVM\WPFMVVM\bin\Debug\WPFMVVM.pdb
+C:\Users\CSharpSat\source\repos\WPFMVVM\WPFMVVM\obj\Debug\Views\MainWindow.baml
+C:\Users\CSharpSat\source\repos\WPFMVVM\WPFMVVM\obj\Debug\WPFMVVM.g.resources
+C:\Users\CSharpSat\source\repos\WPFMVVM\WPFMVVM\obj\Debug\WPFMVVM.Properties.Resources.resources
+C:\Users\CSharpSat\source\repos\WPFMVVM\WPFMVVM\obj\Debug\WPFMVVM.csproj.GenerateResource.Cache
+C:\Users\CSharpSat\source\repos\WPFMVVM\WPFMVVM\obj\Debug\WPFMVVM.csproj.CoreCompileInputs.cache
+C:\Users\CSharpSat\source\repos\WPFMVVM\WPFMVVM\obj\Debug\WPFMVVM.exe
+C:\Users\CSharpSat\source\repos\WPFMVVM\WPFMVVM\obj\Debug\WPFMVVM.pdb

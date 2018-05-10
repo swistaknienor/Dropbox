@@ -1,0 +1,10 @@
+C:\Users\swistak\source\repos\WindowsFormsApp1_interface\WindowsFormsApp1_interface\obj\Debug\WindowsFormsApp1_interface.csprojResolveAssemblyReference.cache
+C:\Users\swistak\source\repos\WindowsFormsApp1_interface\WindowsFormsApp1_interface\obj\Debug\WindowsFormsApp1_interface.Form1.resources
+C:\Users\swistak\source\repos\WindowsFormsApp1_interface\WindowsFormsApp1_interface\obj\Debug\WindowsFormsApp1_interface.Properties.Resources.resources
+C:\Users\swistak\source\repos\WindowsFormsApp1_interface\WindowsFormsApp1_interface\obj\Debug\WindowsFormsApp1_interface.csproj.GenerateResource.Cache
+C:\Users\swistak\source\repos\WindowsFormsApp1_interface\WindowsFormsApp1_interface\obj\Debug\WindowsFormsApp1_interface.csproj.CoreCompileInputs.cache
+C:\Users\swistak\source\repos\WindowsFormsApp1_interface\WindowsFormsApp1_interface\bin\Debug\WindowsFormsApp1_interface.exe.config
+C:\Users\swistak\source\repos\WindowsFormsApp1_interface\WindowsFormsApp1_interface\bin\Debug\WindowsFormsApp1_interface.exe
+C:\Users\swistak\source\repos\WindowsFormsApp1_interface\WindowsFormsApp1_interface\bin\Debug\WindowsFormsApp1_interface.pdb
+C:\Users\swistak\source\repos\WindowsFormsApp1_interface\WindowsFormsApp1_interface\obj\Debug\WindowsFormsApp1_interface.exe
+C:\Users\swistak\source\repos\WindowsFormsApp1_interface\WindowsFormsApp1_interface\obj\Debug\WindowsFormsApp1_interface.pdb

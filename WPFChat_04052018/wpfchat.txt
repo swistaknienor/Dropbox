@@ -1,0 +1,3 @@
+Zadani ulohy WPF chat:
+1. Zkuste doplnit (logiku) a rozsirit tridy a metody projektu WPF chat.
+2. Zkuste propojit tridy Chat do UI.
